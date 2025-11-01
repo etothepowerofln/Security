@@ -9,3 +9,7 @@ Steps:
 ### Results
 
 ![Results](images/credentials_facebook.png "Results")
+
+- Username found
+- Password was not prefilled by the browser
+- "encpass" shows that the password was encrypted by the client before sending
