@@ -1,7 +1,6 @@
 import os
 import argparse
 import pyaes
-from getpass import getpass
 
 SUFFIX = ".ransomware"
 
@@ -60,4 +59,5 @@ def main():
         print("Error:", e)
 
 if __name__ == "__main__":
+
     main()
